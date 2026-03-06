@@ -116,6 +116,7 @@ sql-databse
 │
 ├── Spotify_Diagram_2026-03-05T13_30_25.809Z.sql
 ├── Spotify_Diagram_2026-03-06T08_58_44.465Z.png
+├── LyricaLytics_Exploring Music Trends and Genres.pdf
 │
 └── README.md
 ```
